@@ -1,0 +1,2 @@
+id,nama,usia,keluhan,hr,sbp,dbp,spo2,rr,suhu,riwayat,alergi,label_esi,label_ruangan
+P001,Nama Pasien,35,Deskripsi keluhan lengkap di sini,80,120,80,98,16,36.8,Riwayat penyakit atau Tidak ada,Alergi atau Tidak ada,3,Semi-kritis

@@ -1,0 +1,13 @@
+id,nama,usia,keluhan,hr,sbp,dbp,spo2,rr,suhu,riwayat,alergi,label_esi,label_ruangan
+P001,Budi Santoso,58,Nyeri dada hebat menjalar ke lengan kiri sejak 20 menit keringat dingin sesak napas,110,90,60,92,26,36.8,Hipertensi DM tipe 2,Tidak ada,1,Resusitasi
+P002,Siti Rahayu,34,Sesak napas tiba-tiba riwayat asma tidak respons dengan inhaler,128,100,70,88,32,37.2,Asma bronkial,Aspirin,1,Resusitasi
+P003,Ahmad Fauzi,45,Penurunan kesadaran mendadak ditemukan tidak sadar di rumah,55,80,50,85,8,35.5,Tidak diketahui,Tidak diketahui,1,Resusitasi
+P004,Dewi Kusuma,62,Kelemahan separuh tubuh kanan tiba-tiba bicara pelo sejak 1 jam lalu,88,185,105,96,18,37.0,Hipertensi Fibrilasi atrium,Penisilin,2,Kritis
+P005,Reza Pratama,28,Nyeri perut kanan bawah hebat demam mual muntah sejak 12 jam,102,115,75,98,20,38.8,Tidak ada,Tidak ada,2,Kritis
+P006,Nurul Hidayah,7,Kejang demam 3 menit baru berhenti pasca iktal suhu tinggi,140,95,60,97,28,39.8,Riwayat kejang demam sebelumnya,Tidak ada,2,Kritis
+P007,Hendra Wijaya,50,Luka robek dalam di lengan kanan akibat terkena mesin perdarahan aktif sudah terkontrol,95,125,80,99,16,36.9,DM tipe 2,Tidak ada,3,Semi-kritis
+P008,Ani Sulistyowati,40,Nyeri kepala hebat tiba-tiba seperti dipukul muntah 2x,78,145,90,98,16,37.1,Migrain,NSAID,3,Semi-kritis
+P009,Teguh Purnomo,35,Demam 3 hari batuk nyeri tenggorokan tidak ada sesak,88,120,78,98,18,38.5,Tidak ada,Tidak ada,4,Observasi
+P010,Maya Sari,25,Nyeri perut bagian atas ringan setelah makan pedas mual tanpa muntah,76,118,74,99,15,36.8,Gastritis,Tidak ada,4,Observasi
+P011,Bambang Setiawan,22,Luka lecet ringan di lutut akibat jatuh dari sepeda tidak ada tulang menonjol,72,116,72,99,14,36.6,Tidak ada,Tidak ada,5,Rawat jalan
+P012,Rina Marlina,30,Perlu surat keterangan sakit merasa tidak enak badan ringan tidak ada keluhan spesifik,74,120,76,99,14,36.7,Tidak ada,Tidak ada,5,Rawat jalan
